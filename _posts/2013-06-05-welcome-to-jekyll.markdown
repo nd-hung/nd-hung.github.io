@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 
 {% highlight python %}
+x = ('a', 1, False)
+{% endhighlight %}
+
+{% highlight python %}
 def print_hi(name):
   print("Hi %s!" % (name))
 

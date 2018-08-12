@@ -6,8 +6,8 @@ categories: jekyll update
 ---
 
 {% highlight python %}
-def print_hi(name)
-  puts "Hi, #{name}"
+def print_hi(name):
+  print("Hi %s!" % (name))
 
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.

@@ -9,7 +9,7 @@ categories: jekyll update
 x = ('a', 1, False)
 {% endhighlight %}
 
-{% highlight python %}
+{% highlight ruby linenos %}
 def print_hi(name):
   print("Hi, %s!" % (name))
 

@@ -5,10 +5,6 @@ date:   2013-06-05 17:06:25
 categories: jekyll update
 ---
 
-{% highlight python %}
-x = ('a', 1, False)
-{% endhighlight %}
-
 {% highlight ruby linenos %}
 def print_hi(name):
   print("Hi, %s!" % (name))

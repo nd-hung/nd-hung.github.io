@@ -13,13 +13,4 @@ def print_hi(name):
 print_hi('there')
 {% endhighlight %}
 
-<script>window.onload = coliru.addRunButtons</script>
-<pre>
-    <code data-lang="c++">
-        int main()
-        {
-            cout << "Hello world";
-            return 0;
-        }
-    </code>
-</pre>
+

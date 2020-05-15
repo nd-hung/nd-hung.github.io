@@ -12,5 +12,3 @@ def print_hi(name):
 # => prints 'Hi there!' to STDOUT.
 print_hi('there')
 {% endhighlight %}
-
-

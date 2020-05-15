@@ -18,6 +18,7 @@ print_hi('there')
     <code data-lang="c++">
         int main()
         {
+            cout << "Hello world";
             return 0;
         }
     </code>

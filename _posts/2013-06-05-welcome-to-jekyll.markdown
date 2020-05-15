@@ -12,3 +12,13 @@ def print_hi(name):
 # => prints 'Hi there!' to STDOUT.
 print_hi('there')
 {% endhighlight %}
+
+<script>window.onload = coliru.addRunButtons</script>
+<pre>
+    <code data-lang="c++">
+        int main()
+        {
+            return 0;
+        }
+    </code>
+</pre>

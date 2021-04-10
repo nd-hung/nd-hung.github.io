@@ -1,13 +1,1 @@
-name: Hung Nguyen <br>(Nguyễn Đình Hưng)
-url: https://nd-hung.github.io
-description: 
-
-permalink: /:year/:month/:day/:title/
-paginate: 10
-
-gems: [jekyll-paginate]
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-
-highlighter: rouge
-
 theme: jekyll-theme-modernist

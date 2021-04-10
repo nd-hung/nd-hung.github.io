@@ -10,4 +10,4 @@ exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 highlighter: rouge
 
-theme: jekyll-theme-modernist
+theme: jekyll-theme-architect

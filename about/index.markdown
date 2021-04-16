@@ -13,5 +13,5 @@ Hung Nguyen is a lecturer at the Faculty of Information Technology, [Nha Trang U
 ## Teaching courses 
 - Introduction to Computer Programming (with C)
 - Programming Techniques (with C++)
-- Object-Oriented Programming (with C#)
+- Object-oriented Programming (with C#)
 - [Big Data Technology](https://nd-hung.github.io/Big-Data/)

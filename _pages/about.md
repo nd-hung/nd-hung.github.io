@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hung Nguyen is a lecturer at the Faculty of Information Technology, [Nha Trang University, Vietnam](http://ntu.edu.vn). He graduated with PhD in IT from [Deakin University Australia](https://www.deakin.edu.au), 2020. Previously, he received MSc in ICE ([Yeungnam University](http://www.yu.ac.kr), the Republic of Korea, 2009), and Engineer's Degree in IT ([Hanoi University of Technology](https://hust.edu.vn/), Vietnam, 2001).
+## Welcome!
 
-## [Hung's CV](/_pages/cv.md)
+I created this personal website primarily for serving students supplementary materials associated with my courses on the NTU E-learning system. The materials include summarized lectures, recommended resources, tutorials, and practice problems.
+
+## In-progress courses (Spring 2024)
+### Big Data
+### Object Oriented Programming

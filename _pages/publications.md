@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    Hung's published papers are listed on 
+    <a href="{{https://scholar.google.com/citations?user=NDDWXZsAAAAJ}}"> Google Scholars </a> and
+    <a href="{{https://www.researchgate.net/profile/Hung-Nguyen-88}}"> Research Gate </a>
+  </div>
 {% endif %}
 
 {% include base_path %}

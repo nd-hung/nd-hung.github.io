@@ -10,6 +10,6 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
     

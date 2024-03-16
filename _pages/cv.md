@@ -19,12 +19,13 @@ Work experience
 ======
 * 2001: Teaching Assistant
   * Nha Trang University
-  * Duties includes: Teaching Assistant
 
   
 Skills
 ======
 * Machine Learning and Data Science
+  * Deep Learning
+  * Pytorch
 * Programming Languages
   * Python
   * C/C++

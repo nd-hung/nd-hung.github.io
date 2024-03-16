@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Hung's published papers are listed on [Google Scholars](https://scholar.google.com/citations?user=NDDWXZsAAAAJ)
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">
     Hung's published papers are listed on 

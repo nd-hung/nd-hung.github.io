@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hung Nguyen"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Hung Nguyen"
 description              : &description "Personal page for academic"
@@ -38,7 +38,7 @@ author:
 
   # Repositories and software development
   github           : "nd-hung"
-  kaggle           : # Username  
+  kaggle           : "https://www.kaggle.com/hoanghung"    # Username  
   
   # Social media
   facebook         : "hungdhnt" # Username

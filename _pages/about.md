@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title:
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,5 +12,5 @@ redirect_from:
 I created this personal website primarily for serving students supplementary materials associated with my courses on the NTU E-learning system. The materials include summarized lectures, recommended resources, tutorials, and practice problems.
 
 ## In-progress courses (Spring 2024)
-### Big Data
-### Object Oriented Programming
+### [Big Data](https://github.com/nd-hung/Big-Data)
+### [Object Oriented Programming](https://nd-hung.github.io/oop/)

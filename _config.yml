@@ -16,9 +16,9 @@ author:
   avatar           : "profile.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "PhD in IT | Lecturer"
   location         : "Vietnam"
-  employer         : "Nha Trang University"
+  employer         : [Nha Trang University](https://ntu.edu.vn)
   uri              : # URL
   email            : "hungnd@ntu.edu.vn" 
 

@@ -14,9 +14,9 @@ repository               : "nd-hung/nd-hung.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hung Nguyen"
+  name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Computer scientist"
+  bio              : "Lecturer"
   location         : "Vietnam"
   employer         : "Nha Trang University"
   uri              : # URL

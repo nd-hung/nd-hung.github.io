@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hung Nguyen"
+title                    : "Hung's page"
 title_separator          : "-"
 name                     : &name "Hung Nguyen"
 description              : &description "Personal page for academic"

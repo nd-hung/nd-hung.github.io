@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I created this personal website primarily for serving students supplementary materials associated with my courses on the NTU E-learning system. The materials include summarized lectures, recommended resources, tutorials, and practice problems.
+I created this personal website primarily for serving students supplementary materials associated with my courses. The materials include summarized lectures, recommended resources, tutorials, and practice problems.
 
 ## In-progress courses (Spring 2024)
 ### [Big Data](https://github.com/nd-hung/Big-Data)

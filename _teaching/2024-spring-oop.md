@@ -1,7 +1,7 @@
 ---
 title: "Lập trình hướng đối tượng"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /oop
 venue: "Nha Trang University, Department of Sofware Engineering"
 date: 2024-01-01

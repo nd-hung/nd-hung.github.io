@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Hung Nguyen"
 title_separator          : "-"
 name                     : &name "Hung Nguyen"
 description              : &description "Personal page for academic"
@@ -16,7 +16,7 @@ author:
   avatar           : "profile.jpg"
   name             : ""
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer"
+  bio              : ""
   location         : "Vietnam"
   employer         : "Nha Trang University"
   uri              : # URL

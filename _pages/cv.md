@@ -9,21 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Information Technology, Deakin University, 2020
-* M.S. in Information and Communication Engineering, Yeungnam University, 2009
-* B.Eng. in Information Technology, Hanoi University of Technology, 2001
+## Education
 
-Work experience
-======
+* Ph.D in Information Technology, Deakin University, Australia, 2020
+* M.S. in Information and Communication Engineering, Yeungnam University, Republic of Korea, 2009
+* B.Eng. in Information Technology, Hanoi University of Technology, Vietnam, 2001
+
+## Work experience
+
 * 2001: Teaching Assistant
   * Nha Trang University
 
-  
-Skills
-======
-* Machine Learning and Data Science
+## Skills
+
+* Applied Machine Learning and Data Science
   * Deep Learning
   * Pytorch
 * Programming Languages
@@ -31,24 +30,19 @@ Skills
   * C/C++
   * C#
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Publications
+
+  <ul>
+    {% for post in site.publications reversed %}
+      {% include archive-single-cv.html %}
+    {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently Head of Department of Software Engineering, Nha Trang University

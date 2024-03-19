@@ -17,14 +17,19 @@ redirect_from:
 
 ## Work experience
 
-* 2001: Teaching Assistant
-  * Nha Trang University
+* 2001-present: Lecturer
+  * Nha Trang University, Vietnam
+* 2018-2019: Teaching Assistant
+  * School of Information Technology, Deakin University, Melbourne Burwood, Australia.
 
 ## Skills
 
 * Applied Machine Learning and Data Science
   * Deep Learning
   * Pytorch
+* Big Data frameworks
+  * Hadoop
+  * Spark
 * Programming Languages
   * Python
   * C/C++

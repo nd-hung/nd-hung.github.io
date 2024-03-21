@@ -24,14 +24,14 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=NDDWXZsAAAAJ"
-  researchgate     : "https://www.researchgate.net/profile/Hung-Nguyen-88"
+  #researchgate     : "https://www.researchgate.net/profile/Hung-Nguyen-88"
 
   # Repositories and software development
   github           : "nd-hung"
   kaggle           : "hoanghung"    # Username  
   
   # Social media
-  linkedin         : "nguyen-dinh-hung"   # Username
+  #linkedin         : "nguyen-dinh-hung"   # Username
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -19,8 +19,15 @@ redirect_from:
 
 * 2001-present: Lecturer
   * Nha Trang University, Vietnam
+  * Teaching courses
+    * Object Oriented Programming
+    * Programming Methodology
+    * Big Data
+    * Machine Learning and Data Science
+
 * 2018-2019: Teaching Assistant
-  * School of Information Technology, Deakin University, Melbourne Burwood, Australia.
+  * School of Information Technology, Deakin University, Melbourne Burwood, Australia
+  * Teaching course: Object Oriented Development
 
 ## Skills
 
@@ -37,11 +44,8 @@ redirect_from:
 
 ## Publications
 
-  <ul>
-    {% for post in site.publications reversed %}
-      {% include archive-single-cv.html %}
-    {% endfor %}</ul>
-  
+  Hung's published papers are listed on [Google Scholars](https://scholar.google.com/citations?user=NDDWXZsAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Hung-Nguyen-88).
+
 ## Teaching
 
   <ul>{% for post in site.teaching reversed %}

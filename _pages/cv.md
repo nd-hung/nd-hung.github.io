@@ -27,7 +27,9 @@ redirect_from:
 
 * 2018-2019: Teaching Assistant
   * School of Information Technology, Deakin University, Melbourne Burwood, Australia
-  * Teaching course: Object Oriented Development
+  * Teaching courses
+    * (SIT771) Object Oriented Development
+    * (SIT773) Software Requirements Analysis and Modeling (Master's Degree)
 
 ## Skills
 
@@ -55,3 +57,11 @@ redirect_from:
 ## Service and leadership
 
 * Currently Head of Department of Software Engineering, Nha Trang University
+
+## Awards and Achievements
+* **Silver Prize**, Kaggle competition *Predicting Molecular Properties*, 2019
+* **Honorable Mention Paper Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
+* **Travel Grant Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
+* **Full PhD Scholarship**, VIED, Vietnam and Deakin University, Australia, 2016
+* **Certificates of Microsoft Office Specialist (MOS) in Excel, Word, Powerpoint and Access**, IIG Vietnam, 2015
+* **Full MSc Scholarship**, Yeungnam University, Republic of Korea, 2007

@@ -50,15 +50,18 @@ redirect_from:
 
 ## Teaching
 
-  <ul>{% for post in site.teaching reversed %}
+  <ul>
+  {% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+  </ul>
   
 ## Service and leadership
 
 * Currently Head of Department of Software Engineering, Nha Trang University
 
 ## Awards and Achievements
+
 * **Silver Prize**, Kaggle competition *Predicting Molecular Properties*, 2019
 * **Honorable Mention Paper Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
 * **Travel Grant Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017

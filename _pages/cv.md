@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Information Technology, Deakin University, Australia, 2020
-* M.S. in Information and Communication Engineering, Yeungnam University, Republic of Korea, 2009
-* B.Eng. in Information Technology, Hanoi University of Technology, Vietnam, 2001
+* Ph.D in Information Technology, [A2I2](https://a2i2.deakin.edu.au/), Deakin University, Australia, 2020
+* M.S. in Information and Communication Engineering, [Yeungnam University](https://www.yu.ac.kr/english/index.do), Republic of Korea, 2009
+* B.Eng. in Information Technology, [Hanoi University of Technology](https://hust.edu.vn/), Vietnam, 2001
 
 ## Work experience
 

@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * Ph.D in Information Technology, [A2I2](https://a2i2.deakin.edu.au/), Deakin University, Australia, 2020
-* M.S. in Information and Communication Engineering, [Yeungnam University](https://www.yu.ac.kr/english/index.do), Republic of Korea, 2009
+* M.Sc. in Information and Communication Engineering, [Yeungnam University](https://www.yu.ac.kr/english/index.do), Republic of Korea, 2009
 * B.Eng. in Information Technology, [Hanoi University of Technology](https://hust.edu.vn/), Vietnam, 2001
 
 ## Work experience
@@ -66,5 +66,5 @@ redirect_from:
 * **Honorable Mention Paper Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
 * **Travel Grant Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
 * **Full PhD Scholarship**, VIED, Vietnam and Deakin University, Australia, 2016
-* **Certificates of Microsoft Office Specialist (MOS) in Excel, Word, Powerpoint and Access**, IIG Vietnam, 2015
+* **Certificates of Microsoft Office Specialist (MOS) on Excel, Word, Powerpoint and Access**, IIG Vietnam, 2015
 * **Full MSc Scholarship**, Yeungnam University, Republic of Korea, 2007

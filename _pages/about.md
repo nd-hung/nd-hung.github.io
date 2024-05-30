@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nguyễn Đình Hưng (a.k.a Hung Nguyen)"
+title: "Hung Nguyen"
 author_profile: true
 redirect_from: 
   - /about/

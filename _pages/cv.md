@@ -17,13 +17,15 @@ redirect_from:
 
 ## Work experience
 
-* 2001-present: Lecturer
+* 2001-present: Teaching Assistant, Lecturer
   * Nha Trang University, Vietnam
   * Teaching courses
     * Object Oriented Programming
     * Programming Methodology
     * Big Data
     * Machine Learning and Data Science
+    * Programming with Python
+    * Introduction to Data Science
 
 * 2018-2019: Teaching Assistant
   * School of Information Technology, Deakin University, Melbourne Burwood, Australia

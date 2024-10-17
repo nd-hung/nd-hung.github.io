@@ -58,9 +58,11 @@ redirect_from:
   {% endfor %}
   </ul>
   
-## Service and leadership
+## Services
 
-* Currently Head of Department of Software Engineering, Nha Trang University
+* Head of Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
+* PC Member and Session Chair: [27th National Conference in Information and Communications (VNICT)](https://hoithaoquocgiacntt.ac.vn/), 2024
+* TPC Member: [18th International Conference on Advanced Computing and Analytics (ACOMPA2024))](https://acompa.live/), 2024
 
 ## Awards and Achievements
 

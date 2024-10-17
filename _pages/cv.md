@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Positions
+
+* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
+
 ## Education
 
 * Ph.D in Information Technology, [A2I2](https://a2i2.deakin.edu.au/), Deakin University, Australia, 2020
@@ -60,7 +64,6 @@ redirect_from:
   
 ## Services
 
-* Head of Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
 * PC Member and Session Chair: [27th National Conference in Information and Communications (VNICT)](https://hoithaoquocgiacntt.ac.vn/), 2024
 * TPC Member: [18th International Conference on Advanced Computing and Analytics (ACOMPA2024))](https://acompa.live/), 2024
 

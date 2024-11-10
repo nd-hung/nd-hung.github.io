@@ -52,7 +52,7 @@ redirect_from:
 
 ## Publications
 
-  Hung's published papers are listed on [Google Scholars](https://scholar.google.com/citations?user=NDDWXZsAAAAJ) and [Research Gate](https://www.researchgate.net/profile/Hung-Nguyen-88).
+  Hung's published papers are listed on [Google Scholars](https://scholar.google.com/citations?user=NDDWXZsAAAAJ)/[Research Gate](https://www.researchgate.net/profile/Hung-Nguyen-88).
 
 ## Teaching
 

@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Positions
-
-* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
-
 ## Education
 
 * Ph.D in Information Technology, [A2I2](https://a2i2.deakin.edu.au/), Deakin University, Australia, 2020
@@ -61,6 +57,10 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
+
+## Positions
+
+* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
   
 ## Services
 

@@ -18,9 +18,7 @@ I created this personal website primarily for serving students supplementary mat
 ### [Object Oriented Programming (with .NET/C#)](https://nd-hung.github.io/oop)
 
 ### [Programming with Python](https://nd-hung.github.io/python-programming)
-### [Programming Methodology](#)
 
-### [Introduction to Data Science](#)
 
 
 

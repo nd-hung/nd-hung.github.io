@@ -64,6 +64,8 @@ redirect_from:
   
 ## Services
 
+* PC Member and Session Co-chair: [10th Conference on Information and Communication Technology](https://ict2025.dlu.edu.vn/), Dalat University, July 2025
+
 * PC Member and Session Chair: [2nd International Conference on Intelligent Systems and Data Science (ISDS 2024)](https://isds.ctu.edu.vn/2024/), 2024
 * PC Member and Session Chair: [27th National Conference in Information and Communications (VNICT)](https://hoithaoquocgiacntt.ac.vn/), 2024
 * TPC Member: [18th International Conference on Advanced Computing and Analytics (ACOMPA2024)](https://acompa.live/), 2024

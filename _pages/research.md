@@ -9,7 +9,7 @@ author_profile: true
 
 - Applied Machine Learning
 - Data Science
-- Social Media Analysis
+- Social Media Analytics
 
 ## Publications
 

@@ -75,7 +75,7 @@ redirect_from:
 
 ## Awards and Achievements
 
-* **Silver Prize**, Kaggle competition *Predicting Molecular Properties*, 2019
+* **Silver Prize**, [Kaggle competition *Predicting Molecular Properties*](https://www.kaggle.com/competitions/champs-scalar-coupling/leaderboard), 2019
 * **Honorable Mention Paper Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
 * **Travel Grant Award**, *International Conference on Data Science and Advanced Analytics (DSAA)*, Japan, 2017
 * **Full PhD Scholarship**, VIED, Vietnam and Deakin University, Australia, 2016

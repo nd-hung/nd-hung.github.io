@@ -17,4 +17,4 @@ Hung's published papers are listed on [Google Scholars](https://scholar.google.c
 
 ## Projects
 
-- Project TR2022-13-03: Building an automation system for disease recognition on tiger shrimp *(Penaeus monodon)* based on computer vision techniques. Supported by Nha Trang University.
+- Project TR2022-13-03 (2022-2024): Building an automation system for disease recognition on tiger shrimp *(Penaeus monodon)* based on computer vision techniques. Supported by Nha Trang University.

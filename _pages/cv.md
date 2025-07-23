@@ -20,12 +20,12 @@ redirect_from:
 * 2001-present: Teaching Assistant, Lecturer
   * Nha Trang University, Vietnam
   * Teaching courses
-    * Object Oriented Programming (SOT331)
-    * Programming Methodology (SOT320)
-    * Big Data (INT6216)
-    * Machine Learning and Data Science (SOT310)
-    * Programming with Python (NEC311)
-    * Introduction to Data Science (*for Fintech*) (SOT392)
+    * [(SOT331) Object Oriented Programming ](https://nd-hung.github.io/oop/)
+    * (SOT320) Programming Methodology 
+    * [(INT6216) Big Data ](https://nd-hung.github.io/Big-Data/)
+    * (SOT310) Machine Learning and Data Science 
+    * (NEC311) Programming with Python 
+    * (SOT392) Introduction to Data Science (*for Fintech*) 
 
 * 2018-2019: Teaching Assistant
   * School of Information Technology, Deakin University, Melbourne Burwood, Australia

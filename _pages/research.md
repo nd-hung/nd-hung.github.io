@@ -25,17 +25,3 @@ Hung's published papers are listed on [Google Scholars](https://scholar.google.c
 ### In progress
 
 - (Principal Investigator) TR2025-xx-xx (2025-2026): Building a chatbot for Nha Trang University's admidsions website with LLM and RAG.
-
-## Supervision
-### Graduate supervision
-- **Ngo Nguyen Tuong Nghi**. *Building Used Car Website with Recommendation Systems*. Completed 2025. 
-
-- **Cao Viet Thang**. *Application of Blockchain Technology in Certificate Management*. Completed 2023.
-
-### Undergraduate supervision (selected)
-#### 2025
-- **Ngo Thanh Dat**. *Building an NLP-based  Vietnamese document classification system*.
-- **Nguyen Tan Lap**. *Building a traffic sign recognition system for autonomous vehicles using nal neural networks*.
-- **Giap Van Tai**. *Building an intruder detection system using convolutional neural networks*.
-
-

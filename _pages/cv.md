@@ -53,7 +53,7 @@ redirect_from:
 
 ## Positions
 
-* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-present)
+* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-2025)
   
 ## Services
 

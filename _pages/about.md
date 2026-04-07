@@ -14,6 +14,7 @@ I created this personal website primarily for serving students supplementary mat
 ## In-progress courses (Spring 2026)
 
 ### [Object Oriented Programming](https://nd-hung.github.io/oop/)
+### [Introduction to Data Science (Fintech)](#)
 
 
 

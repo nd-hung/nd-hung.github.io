@@ -40,5 +40,5 @@ Hung's published papers are listed on [Google Scholars](https://scholar.google.c
 <h3>In progress </h3>
 
 <li>
-(Principal Investigator) TR2025-13-50 (2025-2026). <i>Building a chatbot for Nha Trang University's admidsions website with LLM and RAG. </i>Supported by Nha Trang University,
+(Principal Investigator) TR2025-13-50 (2025-2026). <i>Building a chatbot for Nha Trang University's admissions website with LLM and RAG. </i>Supported by Nha Trang University,
 </li>

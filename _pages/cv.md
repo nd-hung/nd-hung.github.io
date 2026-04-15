@@ -17,7 +17,7 @@ redirect_from:
 
 ## Work experience
 
-* 2001-present: Teaching Assistant, Lecturer
+* 2001-present: Teaching Assistant -> Lecturer -> Senior Lecturer
   * Nha Trang University, Vietnam
   * Teaching courses
     * [(SOT331) Object Oriented Programming ](https://nd-hung.github.io/oop/)

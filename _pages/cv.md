@@ -53,13 +53,13 @@ redirect_from:
 
 ## Positions
 
-* Head, Department of Software Engineering, Nha Trang University (2013-2015, 2023-2025)
+* Head, Department of Software Engineering, Nha Trang University (2013 - 2015, 2023-2025)
 
 * Director, Management Information Systems Program, Nha Trang University (2026 - present)
   
 ## Services
 
-* PC Member: National Conference in Information and Communication Technology in the Age of AI and Digital Transformation](https://ict2026.tgu.edu.vn/), Tien Giang University, May 2026
+* PC Member: [National Conference in Information and Communication Technology in the Age of AI and Digital Transformation](https://ict2026.tgu.edu.vn/), Tien Giang University, May 2026
 
 * PC Member and Session Co-chair: [10th Conference on Information and Communication Technology](https://ict2025.dlu.edu.vn/), Dalat University, July 2025
 
